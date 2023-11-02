@@ -1,0 +1,16 @@
+{
+  "name":"Konstantin",
+  "age":28,
+  "is_blocker":true,
+  "books":
+  [
+    {
+      "name":"BookName",
+      "year":1991
+    },
+    {
+      "name":"BookName2",
+      "year":2022
+    }
+  ]
+}
